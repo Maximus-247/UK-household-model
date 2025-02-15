@@ -3,6 +3,7 @@
 ## Overview
 
 This project focuses on analyzing household sizes in the UK based on various socio-economic and demographic factors. The study aims to classify households into small (less than 3 members) and large (3 or more members) groups using machine learning models. The best-performing model is selected for future predictions.
+![image alt](https://github.com/Maximus-247/UK-household-model/blob/221ae60b6627ef07ff7a589b7c0948d20345820b/Screenshot%202025-02-15%20181252.png)
 
 ## Problem Statement
 
